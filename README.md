@@ -3,7 +3,7 @@ The client is an international public health agency. I was tasked to produce a p
 <br>
 <br>
 <h2> Problem Statement </h2>
-To identify the location where the Covid-19 pandemic was the worst.
+To identify the location where the COVID-19 pandemic was the worst.
 <br>
 <br>
 <h2> Data Analytics Questions </h2>
