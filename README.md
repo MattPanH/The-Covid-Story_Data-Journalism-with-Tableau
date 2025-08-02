@@ -6,13 +6,10 @@ The client is an international public health agency. I was tasked to produce a p
 To identify the location where the COVID-19 pandemic was the worst.
 <br>
 <br>
-<h2> Data Analytics Questions </h2>
-1) How can I quantify ‘worst’ and what are the pros and cons of my choice?
-<br/>2) What level of geography am I looking at, and what are the limitations associated with it?
-<br/>3) What is the timeframe I am interested in?
-<br/>4) Do the countries which have been most affected by coronavirus share any characteristics in common?
-<br/>5) What is the impact of vaccines in countries?
-<br/>6) What are the limitations of the dataset?
+<h2> Goals </h2>
+1) To study the global impact of COVID-19.
+<br/>2) To study the correlation between socioeconomic indicators and total covid cases or deaths.
+<br/>3) To identify the continent and countries which have been most affected by the COVID-19 pandemic.
 <br>
 <br>
 <h2> Target Audience </h2>
