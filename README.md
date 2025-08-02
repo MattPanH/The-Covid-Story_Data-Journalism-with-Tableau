@@ -16,8 +16,8 @@ To identify the location where the COVID-19 pandemic was the worst.
 <br>
 <br>
 <h2> Target Audience </h2>
-1) An international public health agency trying to identify COVID-19 hotspots that require intervention or resource allocation.
-2) A health-conscious tourist trying to make informed decisions about travel, events, or gatherings.
+1) An international public health agency trying to identify COVID-19 hotspots that require intervention or resource allocation. <br>
+2) A health-conscious tourist trying to make informed decisions about travel, events, or gatherings. <br>
 3) A public health researcher studying the effectiveness of containment measures over time.
 <br>
 <br>
