@@ -27,5 +27,5 @@ High number of missing data for variables such as total vaccinations, boosters, 
 <br>
 <br>
 <h2> Interactive Dashboard (2 Pages) </h2>
-![Alt text]("C:\Users\brage\OneDrive\Documents\General Assembly\Project 2\Dashboard Screenshot_Pg1.png")
+![Alt text]("C:\Users\brage\OneDrive\Documents\General Assembly\Project 2\Dashboard Screenshot_Pg1.png") <br>
 ![Alt text]("C:\Users\brage\OneDrive\Documents\General Assembly\Project 2\Dashboard Screenshot_Pg2.png")
