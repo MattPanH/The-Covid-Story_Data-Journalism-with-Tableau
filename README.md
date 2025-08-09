@@ -27,5 +27,5 @@ High number of missing data for variables such as total vaccinations, boosters, 
 <br>
 <br>
 <h2> Dashboard Screenshot (2 Pages) </h2>
-![Logo](The Covid Story_Dashboard Screenshot Pg1.png) <br>
-![Logo](The Covid Story_Dashboard Screenshot Pg2.png)
+![The Covid Story_Dashboard Screenshot Pg1](The Covid Story_Dashboard Screenshot Pg1.png) <br>
+![The Covid Story_Dashboard Screenshot Pg2](The Covid Story_Dashboard Screenshot Pg2.png)
